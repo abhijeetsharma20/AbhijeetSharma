@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e881c45.css",
+    "main.js": "/static/js/main.c498aab1.js",
+    "static/media/ABGECproject.png": "/static/media/ABGECproject.7fc00a73a5e197004600.png",
+    "static/media/about.png": "/static/media/about.73d38902f836cace2eb9.png",
+    "static/media/calci.png": "/static/media/calci.bc8f81106b207aa41552.png",
+    "static/media/edroom.png": "/static/media/edroom.161e43d6b72788029f49.png",
+    "static/media/Abhijeet_Sharma (1).pdf": "/static/media/Abhijeet_Sharma (1).9abe07ab5b64f0c97b50.pdf",
+    "static/media/main1.png": "/static/media/main1.44be2e7586e28fe9eec4.png",
+    "static/media/Smart deals.png": "/static/media/Smart deals.1ccc144f8a7984217f1a.png",
+    "static/media/project1.png": "/static/media/project1.0a6971a85d0fa208250d.png",
+    "index.html": "/index.html",
+    "main.4e881c45.css.map": "/static/css/main.4e881c45.css.map",
+    "main.c498aab1.js.map": "/static/js/main.c498aab1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e881c45.css",
+    "static/js/main.c498aab1.js"
+  ]
+}
